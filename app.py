@@ -434,4 +434,6 @@ def colorize_route():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    # app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Render dynamically assigns a port
+    app.run(host="0.0.0.0", port=port, debug=True)  # Bind to 0.0.0.0
