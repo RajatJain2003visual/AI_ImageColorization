@@ -1,5 +1,7 @@
 # AI Image Colorizer 🎨
 
+![](static/assets/Sequence_01.gif)
+
 A sophisticated web application that transforms black and white images into vibrant, colorized versions using advanced deep learning techniques. The application intelligently detects image content and applies specialized colorization models for portraits and landscapes.
 
 ## Features ✨
