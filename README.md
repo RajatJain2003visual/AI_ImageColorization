@@ -47,6 +47,15 @@ A sophisticated web application that transforms black and white images into vibr
   - MediaPipe for segmentation
 - **Frontend**: HTML5, CSS3, JavaScript
 
+## Datasets Used in the project
+- **Base Dataset**: pascal-voc-2012-dataset
+- **Portrait Dataset**: CelebA-HQ, FFHQ, Unsplash
+- **Landscape Dataset**: https://huggingface.co/datasets/mertcobanov/nature-dataset
+- **Unsplash Images**
+
+# How Image is colorizing
+![How image is colorizing](static\assets\Model-Architecture.jpg)
+ 
 ## Installation 💻
 
 1. Clone the repository:
