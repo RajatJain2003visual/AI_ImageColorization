@@ -15,8 +15,8 @@ A sophisticated web application that transforms black and white images into vibr
 ## Screenshots 📸
 
 ### Home Interface
-![Home Interface](static\assets\ss1.png)
-![](static\assets\ss2.png)
+![Home Interface](static/assets/ss1.png)
+![](static/assets/ss2.png)
 *Clean, intuitive interface with drag-and-drop functionality*
 
 ### Processing Animation
