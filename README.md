@@ -20,11 +20,11 @@ A sophisticated web application that transforms black and white images into vibr
 *Clean, intuitive interface with drag-and-drop functionality*
 
 ### Processing Animation
-![Processing Animation](static\assets\ss3.png)
+![Processing Animation](static/assets/ss3.png)
 
 
 ### Portrait Colorization
-![Portrait Result](static\assets\ss4.png)
+![Portrait Result](static/assets/ss4.png)
 *Example of portrait colorization with enhanced facial details*
 
 ### Landscape Colorization
