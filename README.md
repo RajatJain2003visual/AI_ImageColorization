@@ -54,7 +54,7 @@ A sophisticated web application that transforms black and white images into vibr
 - **Unsplash Images**
 
 # How Image is colorizing
-![How image is colorizing](static\assets\Model-Architecture.jpg)
+![How image is colorizing](static/assets/Model-Architecture.jpg)
  
 ## Installation 💻
 
